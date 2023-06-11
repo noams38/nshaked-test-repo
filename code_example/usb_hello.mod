@@ -1,0 +1,1 @@
+/home/nshaked/work/code_example/usb_hello.o
