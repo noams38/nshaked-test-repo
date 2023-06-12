@@ -10,3 +10,6 @@ git remote add origin git@github.com:noams38/nshaked-test-repo.git
 git push -u origin main
 Itzik Shaked
 Mirit Shaked
+Noam Shaked
+Liat Shaked
+
